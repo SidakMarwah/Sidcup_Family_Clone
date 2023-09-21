@@ -4,10 +4,6 @@
         url(fonts/Montserrat-VariableFont_wght.ttf);
 }
 
-@font-face {
-    font-family: 'nunito';
-    src: url(fonts/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf);
-}
 
 @font-face {
     font-family: gilroy;
